@@ -13,7 +13,7 @@ when a and b are different sum know it
 
 ## How to test
 
-sfaegdtdhjf
+check a nad b find sum
 
 ## External hardware
 
